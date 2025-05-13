@@ -1,4 +1,4 @@
-# LYRIC EXTRAXt
+# LYRICS TO XML
 
 This project provides tools to generate subtitles from audio files using OpenAI's Whisper model, convert subtitle files from SRT format to a custom BaseXML format, and run the entire process sequentially.
 
