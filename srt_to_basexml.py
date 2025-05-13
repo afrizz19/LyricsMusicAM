@@ -27,10 +27,10 @@ def parse_srt(srt_path):
         })
     return subtitles
 
-def create_basexml(subtitles, output_path):
+def create_basexml(subtitles, output_path, title):
     """Create an XML file similar to base.xml from subtitles."""
     scene_attrs = {
-        'title': "Proyek Baru 23",
+        'title': title,
         'width': "1920",
         'height': "1080",
         'exportWidth': "1920",
@@ -111,8 +111,9 @@ if __name__ == "__main__":
 
     subs = parse_srt(srt_path)
     try:
-        create_basexml(subs, output_path)
+        create_basexml(subs, output_path, base_name)
         print(f"Converted {srt_path} to {output_path} successfully.")
     except ValueError as e:
         print(f"Error: {e}")
+    
     
