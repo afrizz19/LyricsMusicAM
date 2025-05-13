@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?><!--
+Created by Alight Motion (http://alightmotion.com)
+Exported: 2025-05-11 05:32 PM
+5.0.272.1028383 (1028383)
+1b819fc (6 Mei 2025 21.08.15)
+-->
+<scene title="Proyek Baru 23" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="4031" fps="60" modifiedTime="1746959521184" amver="1028383" ffver="106" am="com.alightcreative.motion/5.0.272.1028383" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+<bookmark t="1441" />
+  <text id="10218664" startTime="0" endTime="2015" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="512" align="left">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <fillColor value="#ff7f7f7f" />
+    <content>koxak</content>
+  </text>
+  <text id="10218666" label="koxak Copy" startTime="2016" endTime="4031" fillType="color" mediaFillMode="fill" size="18.000000" font="googlefonts?name=Roboto&amp;weight=400" wrapWidth="512" align="left">
+    <transform>
+      <location value="960.000000,540.000000,0.000000" />
+    </transform>
+    <fillColor value="#ff7f7f7f" />
+    <content>koxak</content>
+  </text>
+</scene>
