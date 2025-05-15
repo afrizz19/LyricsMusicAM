@@ -59,7 +59,7 @@ def create_basexml(subtitles, output_path, title):
         'align': "center",
     }
     default_location_value = "960.000000,540.000000,0.000000"
-    default_fillColor_value = "#ff7f7f7f"
+    default_fillColor_value = "#ffffff"
 
     for i, subtitle in enumerate(subtitles, start=1):
         text_attrs = {
