@@ -1,6 +1,8 @@
 music/
 preset/
+subtitle/
 ffmpeg.exe
+
 
 # Python cache and bytecode
 __pycache__/
@@ -17,3 +19,4 @@ Thumbs.db
 
 # Logs
 *.log
+serve_folders.py
