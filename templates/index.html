@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Music and Preset Library</title>
+    <link rel="stylesheet" href="{{ url_for('static_files', filename='styles.css') }}" />
+</head>
+<body>
+    <header>
+        <h1>Music and Preset Library</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Music Files</h2>
+            <ul>
+                {% for file in music_files %}
+                <li><a href="{{ url_for('music', filename=file) }}" download>{{ file }}</a></li>
+                {% endfor %}
+            </ul>
+        </section>
+        <section>
+            <h2>Preset Files</h2>
+            <ul>
+                {% for file in preset_files %}
+                <li><a href="{{ url_for('preset', filename=file) }}" download>{{ file }}</a></li>
+                {% endfor %}
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>© 2024 Music and Preset Library</p>
+    </footer>
+</body>
+</html>

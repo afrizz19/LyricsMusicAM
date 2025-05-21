@@ -55,11 +55,11 @@ def create_basexml(subtitles, output_path, title):
         'mediaFillMode': "fill",
         'size': "40.000000",
         'font': "imported?name=Coolvetica Rg.ttf",
-        'wrapWidth': "512",
+        'wrapWidth': "1831",
         'align': "center",
     }
     default_location_value = "960.000000,540.000000,0.000000"
-    default_fillColor_value = "#ffffff"
+    default_fillColor_value = "#ffb9e1ed"
 
     for i, subtitle in enumerate(subtitles, start=1):
         text_attrs = {

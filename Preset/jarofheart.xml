@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene title="jarofheart" width="1920" height="1080" exportWidth="1920" exportHeight="1080" precompose="dynamicResolution" bgcolor="#ff000000" totalTime="40039" fps="60" modifiedTime="1746959521184" amver="1028383" ffver="106" am="com.alightcreative.motion/5.0.272.1028383" amplatform="android" retime="freeze" retimeAdaptFPS="false">
+  <text id="10218665" startTime="0" endTime="1860" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>I</content>
+  </text>
+  <text id="10218666" startTime="1860" endTime="2399" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>learned</content>
+  </text>
+  <text id="10218667" startTime="2399" endTime="2700" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>to</content>
+  </text>
+  <text id="10218668" startTime="2700" endTime="3439" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>live</content>
+  </text>
+  <text id="10218669" startTime="3439" endTime="4799" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>half</content>
+  </text>
+  <text id="10218670" startTime="4799" endTime="6099" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>alive</content>
+  </text>
+  <text id="10218671" startTime="6099" endTime="7780" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>And</content>
+  </text>
+  <text id="10218672" startTime="7780" endTime="8740" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>now</content>
+  </text>
+  <text id="10218673" startTime="8740" endTime="9119" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>you</content>
+  </text>
+  <text id="10218674" startTime="9119" endTime="9619" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>want</content>
+  </text>
+  <text id="10218675" startTime="9619" endTime="9919" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>me</content>
+  </text>
+  <text id="10218676" startTime="9919" endTime="10320" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>one</content>
+  </text>
+  <text id="10218677" startTime="10320" endTime="10859" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>more</content>
+  </text>
+  <text id="10218678" startTime="10859" endTime="11699" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>time</content>
+  </text>
+  <text id="10218679" startTime="14620" endTime="15699" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>And</content>
+  </text>
+  <text id="10218680" startTime="15699" endTime="15859" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>who</content>
+  </text>
+  <text id="10218681" startTime="15859" endTime="16039" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>do</content>
+  </text>
+  <text id="10218682" startTime="16039" endTime="16320" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>you</content>
+  </text>
+  <text id="10218683" startTime="16320" endTime="16800" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>think</content>
+  </text>
+  <text id="10218684" startTime="16800" endTime="17120" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>you</content>
+  </text>
+  <text id="10218685" startTime="17120" endTime="17640" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>are</content>
+  </text>
+  <text id="10218686" startTime="17640" endTime="19120" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>Running</content>
+  </text>
+  <text id="10218687" startTime="19120" endTime="19579" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>around</content>
+  </text>
+  <text id="10218688" startTime="19579" endTime="19920" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>leaving</content>
+  </text>
+  <text id="10218689" startTime="19920" endTime="20699" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>scars</content>
+  </text>
+  <text id="10218690" startTime="21359" endTime="22519" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>Collecting</content>
+  </text>
+  <text id="10218691" startTime="22519" endTime="22640" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>a</content>
+  </text>
+  <text id="10218692" startTime="22640" endTime="23059" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>jar</content>
+  </text>
+  <text id="10218693" startTime="23059" endTime="23480" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>of</content>
+  </text>
+  <text id="10218694" startTime="23480" endTime="24120" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>hearts</content>
+  </text>
+  <text id="10218695" startTime="24120" endTime="25000" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>And</content>
+  </text>
+  <text id="10218696" startTime="25000" endTime="25559" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>tearing</content>
+  </text>
+  <text id="10218697" startTime="25559" endTime="26239" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>love</content>
+  </text>
+  <text id="10218698" startTime="26239" endTime="26839" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>apart</content>
+  </text>
+  <text id="10218699" startTime="26839" endTime="28440" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>You're</content>
+  </text>
+  <text id="10218700" startTime="28440" endTime="28739" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>gonna</content>
+  </text>
+  <text id="10218701" startTime="28739" endTime="29280" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>catch</content>
+  </text>
+  <text id="10218702" startTime="29280" endTime="29820" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>a</content>
+  </text>
+  <text id="10218703" startTime="29820" endTime="30280" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>cold</content>
+  </text>
+  <text id="10218704" startTime="30280" endTime="31100" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>From</content>
+  </text>
+  <text id="10218705" startTime="31100" endTime="31640" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>the</content>
+  </text>
+  <text id="10218706" startTime="31640" endTime="32079" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>ice</content>
+  </text>
+  <text id="10218707" startTime="32079" endTime="32659" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>inside</content>
+  </text>
+  <text id="10218708" startTime="32659" endTime="33219" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>your</content>
+  </text>
+  <text id="10218709" startTime="33219" endTime="33619" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>soul</content>
+  </text>
+  <text id="10218710" startTime="34179" endTime="34799" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>So</content>
+  </text>
+  <text id="10218711" startTime="34799" endTime="35299" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>don't</content>
+  </text>
+  <text id="10218712" startTime="35299" endTime="35399" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>come</content>
+  </text>
+  <text id="10218713" startTime="35399" endTime="35979" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>back</content>
+  </text>
+  <text id="10218714" startTime="35979" endTime="36399" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>for</content>
+  </text>
+  <text id="10218715" startTime="36399" endTime="36700" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>me</content>
+  </text>
+  <text id="10218716" startTime="36700" endTime="38240" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>Who</content>
+  </text>
+  <text id="10218717" startTime="38240" endTime="38460" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>do</content>
+  </text>
+  <text id="10218718" startTime="38460" endTime="38759" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>you</content>
+  </text>
+  <text id="10218719" startTime="38759" endTime="39179" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>think</content>
+  </text>
+  <text id="10218720" startTime="39179" endTime="39560" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>you</content>
+  </text>
+  <text id="10218721" startTime="39560" endTime="40039" fillType="color" mediaFillMode="fill" size="40.000000" font="imported?name=Coolvetica Rg.ttf" wrapWidth="1831" align="center">
+    <transform>
+      <location value="960.000000,540.000000,0.000000"/>
+    </transform>
+    <fillColor value="#ffb9e1ed"/>
+    <content>are</content>
+  </text>
+</scene>
